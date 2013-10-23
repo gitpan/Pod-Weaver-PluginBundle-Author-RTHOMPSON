@@ -4,7 +4,7 @@ use utf8;
 
 package Pod::Weaver::PluginBundle::Author::RTHOMPSON;
 {
-  $Pod::Weaver::PluginBundle::Author::RTHOMPSON::VERSION = '0.132800';
+  $Pod::Weaver::PluginBundle::Author::RTHOMPSON::VERSION = '0.132960';
 }
 # ABSTRACT: A bundle that implements RTHOMPSON's preferred L<Pod::Weaver> config
 
@@ -56,7 +56,7 @@ Pod::Weaver::PluginBundle::Author::RTHOMPSON - A bundle that implements RTHOMPSO
 
 =head1 VERSION
 
-version 0.132800
+version 0.132960
 
 =head1 SYNOPSIS
 

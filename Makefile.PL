@@ -21,6 +21,7 @@ my %WriteMakefileArgs = (
   "NAME" => "Pod::Weaver::PluginBundle::Author::RTHOMPSON",
   "PREREQ_PM" => {
     "Moose" => 0,
+    "Pod::Elemental::Transformer::List" => 0,
     "Pod::Weaver::Config::Assembler" => 0,
     "Pod::Weaver::Plugin::EnsureUniqueSections" => 0,
     "Pod::Weaver::Section::WarrantyDisclaimer" => 0,
@@ -38,7 +39,7 @@ my %WriteMakefileArgs = (
     "Scalar::Util" => 0,
     "Test::More" => "0.94"
   },
-  "VERSION" => "0.132800",
+  "VERSION" => "0.132960",
   "test" => {
     "TESTS" => "t/*.t"
   }

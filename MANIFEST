@@ -9,6 +9,7 @@ dist.ini
 lib/Pod/Weaver/PluginBundle/Author/RTHOMPSON.pm
 lib/Pod/Weaver/PluginBundle/RTHOMPSON.pm
 t/00-compile.t
+t/00-load.t
 t/000-report-versions.t
 t/author-critic.t
 t/release-has-version.t
